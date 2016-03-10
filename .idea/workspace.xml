@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b617b9-3e21-4573-b7b0-6a6e453b5f9f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/drzinks/WelcomeController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/drzinks/WelcomeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/AngularSpringMavenWebApp2/SESSIONS.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/description" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/commit-msg.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/post-update.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/pre-applypatch.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/pre-push.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/update.sample" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/info/exclude" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2016-03-10" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2016-03-10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/AngularSpringMavenWebApp2/org/apache/jsp/WEB_002dINF/jsp/welcomeView_jsp.class" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/AngularSpringMavenWebApp2/org/apache/jsp/WEB_002dINF/jsp/welcomeView_jsp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/AngularSpringMavenWebApp2_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/AngularSpringMavenWebApp2_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularSpringMavenWebApp2.iml" afterPath="$PROJECT_DIR$/AngularSpringMavenWebApp2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcomeView.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcomeView.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/AngularSpringMavenWebApp2/org/apache/jsp/WEB_002dINF/jsp/welcomeView_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/AngularSpringMavenWebApp2/org/apache/jsp/WEB_002dINF/jsp/welcomeView_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="AngularSpringMavenWebApp2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -944,7 +946,7 @@
       <created>1457604763565</created>
       <option name="number" value="Default" />
       <updated>1457604763565</updated>
-      <workItem from="1457604764703" duration="9134000" />
+      <workItem from="1457604764703" duration="9536000" />
     </task>
     <servers />
   </component>
@@ -957,10 +959,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9134000" />
+    <option name="totallyTimeSpent" value="9536000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
