@@ -1,5 +1,7 @@
+.gitignore
 .idea
 hooks
 info
 refs
+target
 *.iml
