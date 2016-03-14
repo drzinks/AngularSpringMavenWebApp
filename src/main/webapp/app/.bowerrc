@@ -1,0 +1,7 @@
+{
+  "directory": "vendor",
+  "json": "bower.json",
+  "proxy":"http://proxy.bbn.hp.com:8080",
+  "https-proxy":"http://proxy.bbn.hp.com:8080"
+}
+
